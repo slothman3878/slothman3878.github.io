@@ -3,8 +3,16 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
+
+- type: linkedin
+  icon: "fa-brands fa-linkedin-in"
+  url: "https://www.linkedin.com/in/do-yun-kim-a791b4174/"
+
+- type: medium
+  icon: fa-brands fa-medium
+  url: "https://medium.com/@doyun.kim3878"
 
 - type: email
   icon: "fas fa-envelope"
