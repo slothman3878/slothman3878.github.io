@@ -107,4 +107,4 @@ type moduleA struct {
 
 But what if we don't want the modules to directly invoke each other at all. Maybe we want to simulate a distributed system as much as possible by implementing an event based interaction.
 
-Arguably this adds an unncessary layer of complexity. It will help when you want a service to handle invokations sequentially.
+<!-- Arguably this adds an unncessary layer of complexity. It will help when you want a service to handle invokations sequentially. -->
